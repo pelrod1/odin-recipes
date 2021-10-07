@@ -1,0 +1,5 @@
+I feel like I can say I am at about step two of my long journey through this aadventure to learn coding. I am starting to look back through my notes when I am not coding. I am starting to think about what kind of websites I want to make, and for who. It is nice to already start imagining what the future could look like down this path. I have a long way to go, as I have only learned a few lines of HTML such as making links to photos and different pages. as well as commands such and <strong></strong> and <em></em> to make things bold and italicized. 
+I am also getting used the terminal to create files and organize things on the back end. 
+I had to look back at the instructions on how to create a repository on git hub, but i am hoping it sticks after this.
+i started by going to github.com and top right corner drop down menu created a repository, then in the terminal i navigated to the folder i wanted the project to live. 
+i then used the command git clone "url" and pasted the url and then in the terminal checking the git status, git add, git commit -m "Comment on what was done", 
